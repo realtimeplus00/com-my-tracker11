@@ -1,11 +1,11 @@
 {
-  "name": "tracker2",
-  "short_name": "tracker2",
+  "name": "tracker3",
+  "short_name": "tracker3",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#7c3aed",
   "orientation": "portrait-primary",
   "icons": [
     {
